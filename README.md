@@ -53,4 +53,4 @@ A continuación se detallan los módulos técnicos desarrollados, acompañados d
 
 ## 📬 Contacto y Perfiles Profesionales
 * **GitHub:** [github.com/DenizSaliev](https://github.com/DenizSaliev)
-* **LinkedIn:** [Perfil de Deniz Saliev](https://www.linkedin.com/in/deniz-saliev-a106a72b7/)
+* **LinkedIn:** [Perfil de Deniz Saliev](https://www.linkedin.com/in/deniz-shoray-saliev-nikolov-a6749b338/)
